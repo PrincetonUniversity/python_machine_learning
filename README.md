@@ -2,7 +2,7 @@
 
 ### Description
 
-This workshop provides an introduction to machine learning using Python. Participants will use Scikit-Learn, NumPy and Matplotlib to solve machine learning problems using supervised and unsupervised machine learning techniques.
+This workshop provides an introduction to machine learning using Python. Participants will use Scikit-Learn, NumPy and Matplotlib to solve problems using supervised and unsupervised machine learning techniques.
 
 ### Getting Help
 
