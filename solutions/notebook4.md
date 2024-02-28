@@ -1,6 +1,6 @@
 # Notebook 4 Solution
 
-```
+```python
 from sklearn import manifold
 digits = load_digits()
 X = digits.data
