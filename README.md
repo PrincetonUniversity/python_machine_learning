@@ -4,7 +4,7 @@
 
 This workshop provides an introduction to machine learning using Python. Participants will use Scikit-Learn, NumPy and Matplotlib to solve problems using supervised and unsupervised machine learning techniques.
 
-For more PICSciE/RC workshops on machine learning see [Spring 2024 line-up](https://researchcomputing.princeton.edu/learn/workshops-live-training).
+For more PICSciE/RC workshops on machine learning see the [Spring 2024 line-up](https://researchcomputing.princeton.edu/learn/workshops-live-training).
 
 ### Getting Help
 
