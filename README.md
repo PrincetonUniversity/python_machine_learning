@@ -4,7 +4,7 @@
 
 This workshop provides an introduction to machine learning using Python. Participants will use Scikit-Learn, NumPy and Matplotlib to solve problems using supervised and unsupervised machine learning techniques.
 
-PICSciE/RC and CSML will offer a 5-part machine learning mini-course during Wintersession (Jan 16-26, 2024). Subscribe to the PICSciE/RC [mailing list](https://researchcomputing.princeton.edu/subscribe) for updates. 
+For more PICSciE/RC workshops on machine learning see [Spring 2024 line-up](https://researchcomputing.princeton.edu/learn/workshops-live-training).
 
 ### Getting Help
 
