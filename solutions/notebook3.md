@@ -1,6 +1,6 @@
 # Notebook 3 Solution
 
-```
+```python
 from sklearn.cluster import DBSCAN
 db = DBSCAN(eps=0.2, min_samples=5, metric="euclidean")
 y_db = db.fit_predict(X)
