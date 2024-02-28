@@ -6,7 +6,11 @@ This workshop provides an introduction to machine learning using Python. Partici
 
 For more PICSciE/RC workshops on machine learning see the [Spring 2024 line-up](https://researchcomputing.princeton.edu/learn/workshops-live-training).
 
-### Run Using Jupyterlite
+### Run Notebooks Using Google Colab
+
+Click on a notebook above such as `notebook1_regression.ipynb`. After the notebook loads, click on the "Open in Colab" button. Run the cells. If you encounter the message "Warning: This notebook was not authored by Google" then choose "Run anyway".
+
+### Run Notebooks Using Jupyterlite
 
 1. Point your browser to [https://jdh4.github.io/python_machine_learning/](https://jdh4.github.io/python_machine_learning/)
 2. After the JupyterLite interface loads, in the file browser on the left, double-click on a notebook such as `notebook1_regression.ipynb`
