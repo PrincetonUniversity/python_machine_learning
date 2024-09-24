@@ -4,7 +4,7 @@
 
 This workshop provides an introduction to machine learning using Python. Participants will use Scikit-Learn, NumPy and Matplotlib to solve problems using supervised and unsupervised machine learning techniques.
 
-For more PICSciE/RC workshops on machine learning see the [Spring 2024 line-up](https://researchcomputing.princeton.edu/learn/workshops-live-training).
+For more PICSciE/RC workshops on machine learning see the [Fall 2024 program](https://researchcomputing.princeton.edu/learn/workshops-live-training).
 
 ### Run Notebooks Using Google Colab
 
@@ -17,6 +17,19 @@ Click on a notebook above such as `notebook1_regression.ipynb`. After the notebo
 3. Run the notebook as usual by clicking on the "play" button and so on.
 
 The preferred web browsers are Firefox 90+ and Chromium 89+.
+
+### Wintersession 2025
+
+Mon, Jan 13 - Introduction to ML for the Humanities and Social Sciences (Part 1)  
+Tue, Jan 14 - Introduction to ML for the Humanities and Social Sciences (Part 2)  
+Wed, Jan 15 - Introduction to ML (Part 1)  
+Thu, Jan 16 - Introduction to ML (Part 2)  
+Fri, Jan 17 - Introduction to ML (Part 3)  
+Tue, Jan 21 - Introduction to ML (Part 4)  
+Wed, Jan 22 - Introduction to ML (Part 5: Computer Vision)  
+Wed, Jan 22 - Introduction to ML (Part 5: ML for Physical Simulations)  
+Wed, Jan 22 - Introduction to ML (Part 5: LLMs [Part 1 of 2])  
+Thu, Jan 22 - Introduction to ML (Part 6: LLMs [Part 2 of 2])  
 
 ### Getting Help
 
