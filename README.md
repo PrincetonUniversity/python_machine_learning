@@ -29,7 +29,7 @@ Tue, Jan 21 - Introduction to ML (Part 4)
 Wed, Jan 22 - Introduction to ML (Part 5: Computer Vision)  
 Wed, Jan 22 - Introduction to ML (Part 5: ML for Physical Simulations)  
 Wed, Jan 22 - Introduction to ML (Part 5: LLMs [Part 1 of 2])  
-Thu, Jan 23 - Introduction to ML (Part 6: LLMs [Part 2 of 2])  
+Thu, Jan 23 - Introduction to ML (Part 5: LLMs [Part 2 of 2])  
 
 ### Getting Help
 
