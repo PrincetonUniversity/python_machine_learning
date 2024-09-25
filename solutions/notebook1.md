@@ -1,10 +1,14 @@
 # Notebook 1 Solution
 
-Repeat the exercise using a different feature:
-
 ```python
-average_blood_pressure = 3
-diabetes_X = diabetes_X[:, np.newaxis, average_blood_pressure]
-```
+laptop_X_train = laptop_X[:-20]
+laptop_X_test = laptop_X[-20:]
 
-Does one feature lead to a better model than another?
+laptop_y_train = laptop_y[:-20]
+laptop_y_test = laptop_y[-20:]
+
+regr.fit(laptop_X_train, laptop_y_train)
+
+print("Intercept: \n", regr.intercept_)
+print("Coefficients: \n", regr.coef_)
+```
