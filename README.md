@@ -28,4 +28,4 @@ If you encounter any difficulties with the material in this guide then please at
 
 ### Authorship
 
-This guide was created by [Christina Peters](https://catalog.saintmarys.edu/faculty/) with contributions from Julian Gold and Jonathan Halverson.
+This guide was created by [Christina Peters](https://catalog.saintmarys.edu/faculty/) with contributions from Anushka Acharya, Julian Gold and Jonathan Halverson.
